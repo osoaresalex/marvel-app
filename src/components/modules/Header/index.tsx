@@ -9,7 +9,7 @@ export default function Header() {
           <h1>
             <Link href="/">
               <a>
-                MARVEL BOOK
+                BUSCA MARVEL
               </a>
             </Link>
           </h1>
