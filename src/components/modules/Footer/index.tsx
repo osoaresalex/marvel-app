@@ -6,14 +6,14 @@ export default function Footer() {
     <Container>
       <Content>
         <div>
-          <a href="https://www.linkedin.com/in/gustavoczsantos/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/osoaresalex/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={40} />
           </a>
-          <a href="https://github.com/Tava1" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/osoaresalex" target="_blank" rel="noopener noreferrer">
             <FaGithub size={40} />
           </a>
         </div>
-        <p>Developed by Gustavo Santos</p>
+        <p>Desenvolvido por Alex Soares</p>
       </Content>
     </Container>
   );
