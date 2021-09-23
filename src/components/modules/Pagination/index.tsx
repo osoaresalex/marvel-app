@@ -1,6 +1,6 @@
 import { Container } from './styles';
 
-const MAX_ITEMS = 9;
+const MAX_ITEMS = 3;
 const CURRENT_ITEM = 1;
 const MAX_LEFT = (MAX_ITEMS - CURRENT_ITEM) / 2;
 
